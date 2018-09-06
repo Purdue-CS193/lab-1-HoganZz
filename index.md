@@ -1,8 +1,5 @@
 ##  My first CS193 Lab
 ##### I DONT KNOW HOW TO USE MARKDOWN.
-```code
-System.out.println("HELL");
-```
 #### something I like about CS 193 ? 
 * tutors are cool (I am not lying) **:)**
 * no homework assignments 
